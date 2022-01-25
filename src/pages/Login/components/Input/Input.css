@@ -1,0 +1,13 @@
+.regular_style{
+    border: 1px solid black;
+    width: 24em;
+    height: 3em;
+}
+
+.input_error {
+    border: 3px solid rgb(149, 230, 19);
+}
+
+.input_error::placeholder{
+    background-color: red;
+}

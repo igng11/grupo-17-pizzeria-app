@@ -1,0 +1,11 @@
+.cu_container {
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16%;
+}
+
+.cu_btn {
+    /* background-color: black; */
+}

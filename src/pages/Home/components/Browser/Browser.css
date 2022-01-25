@@ -1,0 +1,11 @@
+.browser_container {
+    border: 1px solid;
+    color: black;
+    width: 21em;
+    margin: auto;
+    height: 2em;
+}
+
+.browser_ {
+    display: flex;
+}

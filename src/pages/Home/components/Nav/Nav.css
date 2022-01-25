@@ -1,0 +1,18 @@
+.nav_container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 17em;
+    padding: 0.5em;
+    margin: 2em auto;
+}
+
+.time_delivery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+p{
+    margin: 0;
+}
