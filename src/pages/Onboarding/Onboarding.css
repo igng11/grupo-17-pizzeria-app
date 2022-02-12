@@ -1,8 +1,11 @@
 
 .container {
+    display: flex;
+    margin-top: 40%;
 }
 
 img {
     width: 20em;
     height: 100%;
+    margin: auto;
 }

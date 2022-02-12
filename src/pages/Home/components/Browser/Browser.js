@@ -1,11 +1,15 @@
 import React from 'react';
-import './Browser.css'
-;
-
+import './Browser.css';
+import { FiSearch } from 'react-icons/fi';
 
 const Browser = () => {
   return <div className='browser_'>
-      <input className='browser_container' placeholder='Buscar'></input>
+      
+      <div className='search_icon'>
+        <input className='browser_input' placeholder='Buscar'></input> 
+        {/* <div><FiSearch className='search'></FiSearch></div> */}
+      
+      </div>
   </div>;
 }
 

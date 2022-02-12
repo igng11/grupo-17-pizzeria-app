@@ -1,10 +1,14 @@
 .logo_img {
-    width: 17em;
     border-radius: 10px;
     margin-bottom: -1.5em;
 }
 
+.logo_cont{
+    display: flex;
+    height: 7em;
+    margin-bottom: 4em;
+}
+
 img {
-    width: 20em;
-    height: 100%;
+    height: auto;
 }

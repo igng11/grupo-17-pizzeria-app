@@ -41,7 +41,7 @@ function Create_user() {
           />
           <br/>
       <button className='cu_btn'>
-          Ingresar
+          Registrarme
       </button>
     {/* //   onClick={handleSubmit}> */}
   </div>;

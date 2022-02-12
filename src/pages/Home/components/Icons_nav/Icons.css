@@ -1,0 +1,29 @@
+.nav_icon_cont{
+    display: flex;
+    height: 2em;
+    width: 80%;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    border-top-width: 5px;
+    border-bottom-width: thin;
+    align-items: center;
+}
+
+.icon_{
+    width: 2em;
+
+}
+
+.tl {
+    width: 80%;
+    height: 2px;
+    background-color: #166F37;
+    margin: 1em auto .8em;
+}
+
+.bl {
+    width: 80%;
+    height: 1.7px;
+    background-color: #166F37;
+    margin: .4em auto 1em;
+} 

@@ -1,0 +1,23 @@
+.promos_cont{
+    display: flex;
+    margin: 1em .5em 1em;
+}
+
+.div_promo{
+    margin-left: 1em;
+}
+
+.promos_button{
+    background-color: #fff;
+    color: #e74423;
+    font-size: .8em;
+    border: 1px solid;
+    padding: 0 20px;
+    width: 100%;
+    height: 3em !important;
+    margin: auto;
+    height: 2em;
+    border: 3px solid #e74423;
+    border-radius: 30px;
+    caret-color: #fff;
+}

@@ -1,12 +1,15 @@
 .header_container{
     display: flex;
-    background-color: grey;
+    background-color: #E74423;
     flex-direction: row;
     justify-content: space-between;
-    padding: 0.5em;
 }
 
-.header_title{
+.logo_bw{
+    height: 100%;
+}
+
+/* .header_title{
     padding-left: 30%;
 }
 
@@ -22,3 +25,7 @@ i{
 h3 {
     margin: 0;
 }
+.icons {
+    font-size: 1.5em;
+    margin: 0 .2em;
+} */

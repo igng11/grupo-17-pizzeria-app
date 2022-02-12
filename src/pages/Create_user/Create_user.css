@@ -1,5 +1,5 @@
 .cu_container {
-    height: 650px;
+    height: 45em;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,5 +7,12 @@
 }
 
 .cu_btn {
-    /* background-color: black; */
+    width: 10em;
+    height: 3.5em;
+    margin-top: 1em;
+    background-color: #E74423;
+    border: none;
+    border-radius: 73px;
+    font-size: 18px;
+    color: white;
 }

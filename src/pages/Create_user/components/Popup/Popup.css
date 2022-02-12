@@ -1,26 +1,42 @@
-.conteiner{
+.popup_conteiner{
     max-width: 70%;
     background-color: rgb(255, 255, 255);
-    border: 1px solid black;
     padding: 15px;
+    margin: 30% auto;
+    height: 31em;
+    background-color: #166F37;
+    border-radius: 10px;
 }
 
 label {
     text-align: justify;
+    display: flex;
+    flex-direction: column;
 }
 
 h2 {
-    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 30px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
     text-align: center;
-    font-family: sans-serif;
-    font-weight: normal;
-    line-height: 37px;
+    margin: 4em 0 2.5em;
+    letter-spacing: 2px;
 }
 
 h3 {
+    font-family: Roboto;
     text-align: center;
     font-family: sans-serif;
     font-size: 15px;
     font-weight: normal;
     line-height: 27px;
+    color: #fff;
+}
+
+.done{
+    width: 4em;
+    margin: 3em auto;
 }

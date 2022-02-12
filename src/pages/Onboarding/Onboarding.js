@@ -1,6 +1,6 @@
 import React from 'react';
 import './Onboarding.css';
-import img_logo from '../Login/components/Logo/logo_img.jpg';
+import img_logo from '../../assets/img/logo_img.png';
 
 
 function Onboarding() {
