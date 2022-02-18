@@ -25,7 +25,7 @@ const promos = [{ id:0,
 
 const combos = [{id:0,
                  combo: 'Combo familiar',
-                 desc: '2 pizzas muzzarellas tamaño familiar y 1 cerveza Andes de 1lt',
+                 desc: '2 pizzas muzzarellas familiar y 1 cerveza Andes de 1lt',
                  price: '$ 1750',
                  image: image0
                 },
