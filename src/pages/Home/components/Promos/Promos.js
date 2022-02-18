@@ -23,6 +23,7 @@ const promos = [{ id:0,
                   name:'Promociones'
                 }]
 
+                
 const combos = [{id:0,
                  combo: 'Combo familiar',
                  desc: '2 pizzas muzzarellas familiar y 1 cerveza Andes de 1lt',
