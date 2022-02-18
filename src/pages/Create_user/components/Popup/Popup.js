@@ -1,6 +1,6 @@
 import React from 'react';
 import './Popup.css';
-import done from './done.svg'
+import done from './done_inv.svg'
 
 function Popup() {
   return <div className='popup_conteiner'>
@@ -11,7 +11,7 @@ function Popup() {
                 <h3>
                     En un instante podrás revisar <br/> tu menú y hacer tu pedido
                 </h3>
-                <img className='done' src={done}></img>
+                <img className='done' src={done} alt='done_image'></img>
             </label>
          </div>
 }
