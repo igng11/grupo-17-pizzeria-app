@@ -11,7 +11,7 @@
 
 .icon_{
     width: 2em;
-
+    cursor: pointer;
 }
 
 .tl {

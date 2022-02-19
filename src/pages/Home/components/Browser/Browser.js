@@ -6,9 +6,10 @@ const Browser = () => {
   return <div className='browser_'>
       
       <div className='search_icon'>
+        <div className='search_cont'>
         <input className='browser_input' placeholder='Buscar'></input> 
-        {/* <div><FiSearch className='search'></FiSearch></div> */}
-      
+        <div className='browser_icon'><FiSearch className='search'></FiSearch></div>
+        </div>
       </div>
   </div>;
 }

@@ -6,7 +6,7 @@
 .card_combo {
     display: flex;
     flex-direction: wrap;
-    
+    cursor: pointer;
 }
 
 .card_desc{
